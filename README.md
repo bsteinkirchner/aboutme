@@ -1,4 +1,4 @@
-🤝 My name is Brittany Steinkirchner! I am a developer in training and completed one bootcamp and am enrolled in another. I currently have skills in HTML, Java, Javascript, CSS, and Bootstrap.
+🤝 My name is Brittany Steinkirchner! I am a full stack developer and my tech stack is PHP (Laravel), MySQL, and React. 
 
 😄 Pronouns: She/her
 
@@ -10,4 +10,4 @@
 
 💬 Ask me about: Why I changed careers from social work to coding / My 2 corgis / Cross country roadtrips
 
-💓 Passions: Coding, computer science, hiking, camping, 
+💓 Passions: Coding, computer science, hiking, camping, reading, music
