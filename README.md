@@ -2,7 +2,7 @@
 
 😄 Pronouns: She/her
 
-✍️ I am currently learning more about Laravel Dusk testing.
+✍️ I am currently learning more about data structures.
 
 📫 Contact me: bsteinkirchner@outlook.com
 
