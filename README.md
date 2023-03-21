@@ -2,7 +2,7 @@
 
 😄 Pronouns: She/her
 
-✍️ I am currently learning more about test driven development.
+✍️ I am currently learning more about deployment and AWS.
 
 📫 Contact me: bsteinkirchner@outlook.com
 
