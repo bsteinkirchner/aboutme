@@ -4,7 +4,7 @@
 
 ✍️ I am currently learning more about deployment and AWS.
 
-📫 Contact me: bsteinkirchner@outlook.com
+📫 Contact me: bsteinkirchner93@gmail.com
 
 🗣 Follow Me: LinkedIn: https://www.linkedin.com/in/brittany-steinkirchner-6b0680113
 
