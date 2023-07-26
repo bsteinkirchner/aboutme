@@ -2,7 +2,7 @@
 
 😄 Pronouns: She/her
 
-✍️ I am currently learning more about Vue.
+✍️ I am currently learning more about Pest Testing.
 
 📫 Contact me: bsteinkirchner93@gmail.com
 
