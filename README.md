@@ -2,7 +2,7 @@
 
 😄 Pronouns: She/her
 
-✍️ I am currently learning more about React Native.
+✍️ I am currently learning more about React Native and mobile app development.
 
 📫 Contact me: bsteinkirchner93@gmail.com
 
