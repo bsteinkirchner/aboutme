@@ -2,7 +2,7 @@
 
 😄 Pronouns: She/her
 
-✍️ I am currently learning more about serverless Laravel.
+✍️ I am currently learning more about serverless Laravel and Fhir.
 
 📫 Contact me: bsteinkirchner93@gmail.com
 
