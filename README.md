@@ -2,7 +2,7 @@
 
 😄 Pronouns: She/her
 
-✍️ I am currently learning more about serverless Laravel and deployment.
+✍️ I am currently learning more about data structures and algorithms.
 
 📫 Contact me: bsteinkirchner93@gmail.com
 
