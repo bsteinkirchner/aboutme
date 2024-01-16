@@ -2,7 +2,7 @@
 
 😄 Pronouns: She/her
 
-✍️ I am currently learning more about data structures and algorithms.
+✍️ I am currently learning more about best practices to enhance performance.
 
 📫 Contact me: bsteinkirchner93@gmail.com
 
