@@ -2,7 +2,7 @@
 
 😄 Pronouns: She/her
 
-✍️ I am currently learning more about best practices to enhance performance.
+✍️ I am currently learning more about deployment.
 
 📫 Contact me: bsteinkirchner93@gmail.com
 
