@@ -1,4 +1,4 @@
-🤝 My name is Brittany Steinkirchner! I am a full stack engineer and my tech stack is PHP (Laravel), MySQL, Typescript, and React. 
+🤝 My name is Brittany! I am a full stack engineer and my tech stack is PHP (Laravel), MySQL, Typescript, and React. 
 
 😄 Pronouns: She/her
 
