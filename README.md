@@ -4,7 +4,7 @@
 
 ✍️ I am currently learning more about deployment.
 
-💼 I am currently looking for a software engineering role!
+💼 I am currently looking for a software engineering role (full stack or front end)!
 
 📫 Contact me: bsteinkirchner93@gmail.com
 
