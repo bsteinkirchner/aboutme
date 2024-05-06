@@ -1,8 +1,6 @@
 🤝 My name is Brittany! I am a full stack engineer and my tech stack is PHP (Laravel), MySQL, Typescript, and React. 
 
-😄 Pronouns: She/her
-
-✍️ I am currently learning more about deployment.
+✍️ I am currently learning more about C#.
 
 💼 I am currently looking for a software engineering role (full stack or front end)!
 
