@@ -8,6 +8,6 @@
 
 🗣 Follow Me: LinkedIn: https://www.linkedin.com/in/brittany-steinkirchner-6b0680113
 
-💬 Ask me about: Why I changed careers from social work to coding / Cross country roadtrips / work-life balance / Reactjs / OKWIT / Typescript
+💬 Ask me about: Why I changed careers from social work to coding / Cross country roadtrips / work-life balance / Reactjs / OKWIT / Laravel
 
 💓 Passions: Coding, computer science, hiking, camping, reading, music, OKWIT
