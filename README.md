@@ -2,8 +2,6 @@
 
 ✍️ I am currently learning more about Nodejs.
 
-💼 I am currently looking for a software engineering role (full stack or front end)!
-
 📫 Contact me: bsteinkirchner93@gmail.com
 
 🗣 Follow Me: LinkedIn: https://www.linkedin.com/in/brittany-steinkirchner-6b0680113
