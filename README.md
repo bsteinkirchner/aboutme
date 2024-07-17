@@ -1,6 +1,6 @@
 🤝 My name is Brittany! I am a full stack engineer and my tech stack is PHP (Laravel), MySQL, Typescript, and React. 
 
-✍️ I am currently learning more about Nodejs.
+✍️ I am currently learning more about Nodejs and SQL.
 
 📫 Contact me: bsteinkirchner93@gmail.com
 
