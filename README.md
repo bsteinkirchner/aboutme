@@ -1,4 +1,4 @@
-🤝 My name is Brittany! I am a full stack engineer and my tech stack is PHP (Laravel), MySQL, Typescript, and React. 
+🤝 My name is Brittany! I am a full stack engineer and my tech stack is PHP (Laravel), Nodejs, MySQL, Typescript, and React. 
 
 ✍️ I am currently learning more about Nodejs and SQL!
 
