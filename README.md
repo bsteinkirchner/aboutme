@@ -8,4 +8,4 @@
 
 💬 Ask me about: Why I changed careers from social work to coding / Cross country roadtrips / work-life balance / Reactjs / OKWIT / Test driven development
 
-💓 Passions: Coding, computer science, hiking, camping, reading, music, OKWIT
+💓 Passions: Coding, computer science, hiking, camping, reading, music, OKWIT, motherhood
