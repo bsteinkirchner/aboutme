@@ -2,7 +2,7 @@
 
 ✍️ I am currently learning more about Nodejs and writing complex SQL queries.
 
-📫 Contact me: bsteinkirchner93@gmail.com
+📫 Contact me: bsteinkirchner@outlook.com
 
 🗣 Follow Me: LinkedIn: https://www.linkedin.com/in/brittany-steinkirchner-6b0680113
 
