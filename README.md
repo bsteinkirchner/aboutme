@@ -6,6 +6,6 @@
 
 🗣 Follow Me: LinkedIn: https://www.linkedin.com/in/brittany-steinkirchner-6b0680113
 
-💬 Ask me about: Why I changed careers from social work to coding / Cross country roadtrips / work-life balance / Reactjs / OKWIT / Test driven development
+💬 Ask me about: Why I changed careers to SWE / Cross country roadtrips / work-life balance / Reactjs / OKWIT / Test driven development
 
 💓 Passions: Coding, computer science, hiking, camping, reading, music, OKWIT, motherhood
