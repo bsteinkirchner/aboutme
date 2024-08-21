@@ -8,4 +8,4 @@
 
 💬 Ask me about: Why I changed careers to SWE / Cross country roadtrips / work-life balance / Reactjs / OKWIT / Test driven development
 
-💓 Passions: Coding, computer science, hiking, camping, reading, music, OKWIT, motherhood
+💓 Passions: Coding, computer science, hiking, camping, reading, music, OKWIT, motherhood, gardening
