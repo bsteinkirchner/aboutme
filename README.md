@@ -1,6 +1,6 @@
 🤝 My name is Brittany! I am a full stack engineer at Compellier and my tech stack is PHP (Laravel), Nodejs, MySQL, Typescript, and React
 
-✍️ I am currently learning more about software architecture.
+✍️ I am currently learning more about software architecture and deployments.
 
 📫 Contact me: bsteinkirchner@outlook.com
 
