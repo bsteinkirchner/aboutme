@@ -2,8 +2,6 @@
 
 ✍️ I am currently learning more about software architecture and deployments.
 
-📫 Contact me: bsteinkirchner@outlook.com
-
 🗣 Follow Me: LinkedIn: https://www.linkedin.com/in/brittany-steinkirchner-6b0680113
 
 💬 Ask me about: Why I changed careers to SWE / Cross country roadtrips / work-life balance / Reactjs / OKWIT / TDD
