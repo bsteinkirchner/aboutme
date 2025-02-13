@@ -1,6 +1,6 @@
 🤝 My name is Brittany! I am a full stack engineer at Compellier and my tech stack is PHP (Laravel), Nodejs, MySQL, Typescript, and React.
 
-✍️ I am currently learning more about .NET and Tailwind css.
+✍️ I am currently learning more about .NET and Unit testing
 
 🗣 Follow Me: LinkedIn: https://www.linkedin.com/in/brittany-steinkirchner-6b0680113
 
