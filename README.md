@@ -1,6 +1,6 @@
 🤝 My name is Brittany! I am a full stack engineer at Compellier and my tech stack is C#, MySQL, Typescript, and React
  
-✍️ I am currently learning more about .NET and React Router
+✍️ I am currently learning more about SSR
  
 🗣 Follow Me: LinkedIn: https://www.linkedin.com/in/brittany-steinkirchner-6b0680113
 
