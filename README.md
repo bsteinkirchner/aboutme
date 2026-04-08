@@ -1,4 +1,4 @@
-🤝 My name is Brittany! I am a full stack engineer at Compellier and my tech stack is C#, MySQL, Typescript, and React 
+🤝 My name is Brittany! I am a full stack engineer at Compellier and my tech stack is C#, MySQL, Typescript, and React
  
 ✍️ I am currently learning more about SSR
  
